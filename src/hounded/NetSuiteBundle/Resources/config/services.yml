@@ -1,0 +1,4 @@
+services:
+#    hounded_net_suite.example:
+#        class: hounded\NetSuiteBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]
